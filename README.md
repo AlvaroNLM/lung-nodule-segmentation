@@ -1,9 +1,2 @@
 # lung-nodule-segmentation
-AI for image segmentation in the medical context
-
-
-## Tools 
-
-* PyTorch, torchvision
-* matplotlib / opencv-python
-* (optional) captum for XAI
+AI for image segmentation in the medical context: a study of different CNNs and their results.
